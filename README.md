@@ -4,7 +4,7 @@
 <!-- profile logo 个人资料徽标 -->
   <div>
      <!-- csdn -->
-     <a href="https://blog.csdn.net"><img src="https://blog.csdn.net/2301_80015656?spm=1000.2115.3001.5343" /></a>&emsp;
+     <a href="https://blog.csdn.net/qq_40712026?type=blog"><img src="https://blog.csdn.net/2301_80015656?spm=1000.2115.3001.5343" /></a>&emsp;
       <!-- zhihu -->
      <a href="https://www.zhihu.com/people/cbl-95"><img src="https://img.shields.io/badge/Zhihu-知乎-3399ff" /></a>&emsp;     
        <!-- leetcode -->
@@ -23,9 +23,9 @@
 
 ## About Me
 - 🔭 Keep passion for Computer Science. Carpe diem. Open, Reproduce, Exchange.
-- 💼 大连民族大学本科生
-- 😀 I maintain a personal blog at , where I share my learning notes and insights.
-- 🌱 I am exploring becoming AI researcher.
+- 💼 大连民族大学本科生(在读)
+- 😀 I maintain a personal blog at [全是刺头](https://blog.csdn.net/2301_80015656?spm=1000.2115.3001.5343) , where I share my learning notes and insights.
+- 🌱 I am exploring becoming a full stack engineer and AI researcher.
 
 ## Still interested in  
     - NLP, RL, MLSys
