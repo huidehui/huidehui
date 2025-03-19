@@ -4,13 +4,11 @@
 <!-- profile logo 个人资料徽标 -->
   <div>
      <!-- csdn -->
-     <a href="https://blog.csdn.net/qq_40712026?type=blog"><img src="https://blog.csdn.net/2301_80015656?spm=1000.2115.3001.5343" /></a>&emsp;
-      <!-- zhihu -->
-     <a href="https://www.zhihu.com/people/cbl-95"><img src="https://img.shields.io/badge/Zhihu-知乎-3399ff" /></a>&emsp;     
+         <a href="https://blog.csdn.net/2301_80015656?spm=1000.2115.3001.5343"><img src="https://img.shields.io/badge/CSDN-博客-ff3300" /></a>&emsp; 
        <!-- leetcode -->
-     <a href="https://leetcode.cn/u/blbllll-1bxw0ajwnx/"><img src="https://leetcode.cn/u/condescending-tuf2d/" /></a>&emsp;
+    <a href="https://leetcode.cn/u/condescending-tuf2d/"><img src="https://img.shields.io/badge/LeetCode-编程-ff9900" /></a>&emsp;
      <!-- Kaggle -->
-     <a href="https://www.kaggle.com/helloiamcbl"><img src="https://www.kaggle.com/huhuihui0" /></a>&emsp;
+     <a href="https://www.kaggle.com/huhuihui0"><img src="https://img.shields.io/badge/Kaggle-竞赛-007fff" /></a>&emsp;
   </div>
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
